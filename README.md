@@ -24,36 +24,37 @@ PCB front layer traces
 <img width="684" height="522" alt="Screenshot 2026-11-15 at 2 47 46 PM" src="https://github.com/user-attachments/assets/a1a45d8f-d308-4434-bba9-f80bf24fcaf8" />
 PCB back layer traces
 
-## BOM
-| Comment | Designator | Footprint | JLCPCB Part # | LCSC Link |
-|---|---|---|---|---|
-| PH2.0-8P-LT | CN2 | CONN-SMD_PH2.0-8P-LT | C722766 | [C722766](https://www.lcsc.com/product-detail/C722766.html) |
-| TactileButton,160gf | S1,S2 | SW_TS-1088-AR02016 | C720477 | [C720477](https://www.lcsc.com/product-detail/C720477.html) |
-| 51kΩ | R4 | R_0805 | C17737 | [C17737](https://www.lcsc.com/product-detail/C17737.html) |
-| 27Ω | R5,R6 | R_0805 | C17594 | [C17594](https://www.lcsc.com/product-detail/C17594.html) |
-| 33Ω | R12 | R_0402 | C25105 | [C25105](https://www.lcsc.com/product-detail/C25105.html) |
-| 22uF | C12,C19 | C_0805 | C45783 | [C45783](https://www.lcsc.com/product-detail/C45783.html) |
-| Screw_Terminal_01x02 | J3 | Altech_AK100_1x02_P5.00mm | C3703 | [C3703](https://www.lcsc.com/product-detail/C3703.html) |
-| 10kΩ | R9 | R_0402 | C25744 | [C25744](https://www.lcsc.com/product-detail/C25744.html) |
-| XT60 | U4 | CONN-TH_XT60 | C98733 | [C98733](https://www.lcsc.com/product-detail/C98733.html) |
-| 100nF | C18 | C_0603 | C14663 | [C14663](https://www.lcsc.com/product-detail/C14663.html) |
-| SY8120B1ABC | U5 | SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL | C88474 | [C88474](https://www.lcsc.com/product-detail/C88474.html) |
-| SWPA4030S3R3MT | L3 | IND-SMD_L4.0-W4.0_SMNR4012 | C15269 | [C15269](https://www.lcsc.com/product-detail/C15269.html) |
-| Conn_01x04_Pin | 3.3V,GND,VSYS | PinSocket_1x04_P2.54mm_Vertical | C5116483 | [C5116483](https://www.lcsc.com/product-detail/C5116483.html) |
-| 27pF | C10,C11 | C_0402 | C1557 | [C1557](https://www.lcsc.com/product-detail/C1557.html) |
-| X322512MSB4SI | X1 | CRYSTAL-SMD_4P-L3.2-W2.5-BL | C9002 | [C9002](https://www.lcsc.com/product-detail/C9002.html) |
-| 4.7uF | C17,C21,C22,C23 | C_0402 | C23733 | [C23733](https://www.lcsc.com/product-detail/C23733.html) |
-| MBR120VLSFT1G | D1 | SOD-123F_L2.8-W1.8-LS3.7-RD | C223608 | [C223608](https://www.lcsc.com/product-detail/C223608.html) |
-| 1uF | C14,C15 | C_0402 | C52923 | [C52923](https://www.lcsc.com/product-detail/C52923.html) |
-| XL-0603QYGC | LED1 | LED0603-RD | C2289 | [C2289](https://www.lcsc.com/product-detail/C2289.html) |
-| 1kΩ | R11,R2 | R_0402 | C11702 | [C11702](https://www.lcsc.com/product-detail/C11702.html) |
-| 100nF | C1,C13,C2,C20,C3,C4,C5,C6,C7,C8,C9 | C_0402 | C1525 | [C1525](https://www.lcsc.com/product-detail/C1525.html) |
-| 5.1kΩ | R7,R8 | R_0402 | C25905 | [C25905](https://www.lcsc.com/product-detail/C25905.html) |
-| SMDRI127-100MT | L2 | IND-SMD_L12.3-W12.3_SMDRI127 | C9904 | [C9904](https://www.lcsc.com/product-detail/C9904.html) |
-| RP2354A | U6 | QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm | C41378174 | [C41378174](https://www.lcsc.com/product-detail/C41378174.html) |
-| 68Ω | R10 | R_0603 | C27592 | [C27592](https://www.lcsc.com/product-detail/C27592.html) |
-| AP2112K-3.3TRG1 | U3 | SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL | C51118 | [C51118](https://www.lcsc.com/product-detail/C51118.html) |
-| 10nF | C24 | C_0402 | C15195 | [C15195](https://www.lcsc.com/product-detail/C15195.html) |
-| USB-TYPE-C-018 | USB1 | USB-C_SMD-TYPE-C-31-M-12 | C2927038 | [C2927038](https://www.lcsc.com/product-detail/C2927038.html) |
-| XT30UPB-M | CN1 | CONN-TH_XT30UPB-M | C428721 | [C428721](https://www.lcsc.com/product-detail/C428721.html) |
-| 374kΩ | R3 | R_0402 | C54530857 | [C54530857](https://www.lcsc.com/product-detail/C54530857.html) |
+## Components BOM
+
+| Part Number | Type | LCSC Part # | Provided By | Designator | Qty | Link | Total Price |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | ---: |
+| `PH2.0-8P-LT` | Extended | `C722766` | System | CN2 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C722766) | $0.3685 |
+| `TS-1088-AR02016` | Basic | `C720477` | System | S1, S2 | 10 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C720477) | $0.5160 |
+| `0805W8F5102T5E` | Basic | `C17737` | System | R4 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C17737) | $0.0335 |
+| `0805W8F270JT5E` | Extended | `C17594` | System | R5, R6 | 20 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C17594) | $0.0580 |
+| `0402WGF330JTCE` | Basic | `C25105` | System | R12 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C25105) | $0.0055 |
+| `CL21A226MAQNNNE` | Basic | `C45783` | System | C12, C19 | 10 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C45783) | $1.0840 |
+| `WJ127-5.0-02P-14-00A` | Extended | `C3703` | Customer | J3 | 6 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C3703) | $0.7992 |
+| `0402WGF1002TCE` | Basic | `C25744` | System | R9 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C25744) | $0.0050 |
+| `XT60-M.` | Extended | `C98733` | System | U4 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C98733) | $1.7590 |
+| `CC0603KRX7R9BB104` | Basic | `C14663` | System | C18 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C14663) | $0.0520 |
+| `SY8120B1ABC` | Extended | `C88474` | System | U5 | 6 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C88474) | $0.9852 |
+| `SWPA4030S3R3MT` | Extended | `C15269` | System | L3 | 9 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C15269) | $0.5499 |
+| `2.54-1*4` | Extended | `C5116483` | Customer | 3.3V, GND, VSYS | 16 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C5116483) | $0.4032 |
+| `0402CG270J500NT` | Extended | `C1557` | System | C10, C11 | 20 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C1557) | $0.0440 |
+| `X322512MSB4SI` | Basic | `C9002` | System | X1 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C9002) | $0.4770 |
+| `CL05A475MP5NRNC` | Basic | `C23733` | System | C17, C21, C22, C23 | 20 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C23733) | $0.2260 |
+| `MBR120VLSFT1G` | Extended | `C223608` | System | D1 | 7 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C223608) | $1.5365 |
+| `CL05A105KA5NQNC` | Basic | `C52923` | System | C14, C15 | 10 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C52923) | $0.0570 |
+| `KT-0603YG` | Extended | `C2289` | System | LED1 | 20 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C2289) | $0.2120 |
+| `0402WGF1001TCE` | Basic | `C11702` | System | R11, R2 | 10 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C11702) | $0.0130 |
+| `CL05B104KO5NNNC` | Basic | `C1525` | System | C1, C13, C2, C20, C... | 55 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C1525) | $0.1320 |
+| `0402WGF5101TCE` | Basic | `C25905` | System | R7, R8 | 10 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C25905) | $0.0140 |
+| `SMDRI127-100MT` | Extended | `C9904` | System | L2 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C9904) | $1.1520 |
+| `RP2354A` | Extended | `C41378174` | System | U6 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C41378174) | $6.2420 |
+| `0603WAF680JT5E` | Extended | `C27592` | System | R10 | 20 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C27592) | $0.0260 |
+| `AP2112K-3.3TRG1` | Extended | `C51118` | System | U3 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C51118) | $0.8335 |
+| `CL05B103KB5NNNC` | Basic | `C15195` | System | C24 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C15195) | $0.0185 |
+| `USB-TYPE-C-018` | Extended | `C2927038` | System | USB1 | 7 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C2927038) | $0.4445 |
+| `XT30UPB-M` | Extended | `C428721` | System | CN1 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C428721) | $1.3180 |
+| `1RC0402F3743` | Extended | `C54530857` | System | R3 | 20 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C54530857) | $0.0360 |
