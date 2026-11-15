@@ -60,4 +60,5 @@ PCB back layer traces
 | **Components Subtotal** | | | | | **336** | | **$19.4010** |
 | **Assembly Cost** | | | | | | | **$48.6900** |
 | **PCB Manufacturing Cost** | | | | | | | **$4.0000** |
-| **Grand Total** | | | | | | | **$72.0910** |
+| **Shipping** | | | | | | | **$10.0000** |=
+| **Grand Total** | | | | | | | **$82.0910** |
