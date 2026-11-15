@@ -25,7 +25,6 @@ PCB front layer traces
 PCB back layer traces
 
 ## Components BOM
-
 | Part Number | Type | LCSC Part # | Provided By | Designator | Qty | Link | Total Price |
 | :--- | :--- | :--- | :--- | :--- | :---: | :--- | ---: |
 | `PH2.0-8P-LT` | Extended | `C722766` | System | CN2 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C722766) | $0.3685 |
@@ -58,3 +57,7 @@ PCB back layer traces
 | `USB-TYPE-C-018` | Extended | `C2927038` | System | USB1 | 7 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C2927038) | $0.4445 |
 | `XT30UPB-M` | Extended | `C428721` | System | CN1 | 5 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C428721) | $1.3180 |
 | `1RC0402F3743` | Extended | `C54530857` | System | R3 | 20 | [JLCPCB Parts](https://jlcpcb.com/partdetail/C54530857) | $0.0360 |
+| **Components Subtotal** | | | | | **336** | | **$19.4010** |
+| **Assembly Cost** | | | | | | | **$48.6900** |
+| **PCB Manufacturing Cost** | | | | | | | **$4.0000** |
+| **Grand Total** | | | | | | | **$72.0910** |
